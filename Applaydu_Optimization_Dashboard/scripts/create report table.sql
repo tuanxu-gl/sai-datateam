@@ -1,0 +1,23 @@
+CREATE TABLE `gcp-gfb-sai-tracking-gold.applaydu.apd_report_319` (
+  dashboard_id INT64,
+  query_id INT64,
+  start_date TIMESTAMP,
+  end_date TIMESTAMP,
+  kpi_name STRING,
+  load_time TIMESTAMP,
+  value1 FLOAT64,
+  value2 FLOAT64,
+  value3 FLOAT64,
+  value4 FLOAT64,
+  value5 FLOAT64,
+  value6 FLOAT64,
+  value7 FLOAT64,
+  value8 FLOAT64,
+  value1_str STRING,
+  value2_str STRING,
+  value3_str STRING,
+  value4_str STRING,
+  value5_str STRING,
+  value6_str STRING,
+  value7_str STRING
+);

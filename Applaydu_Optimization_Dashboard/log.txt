@@ -1,0 +1,387 @@
+Log datetime=2025-02-10 11:01:32 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=4413 total = 6 seconds
+Log datetime=2025-02-10 11:02:33 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=789 total = 3 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=3183 total = 2 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_292 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 292,query_id=3852 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=2899 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 319,query_id=4266 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 319,query_id=4251 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=263 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=3180 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=256 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=253 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=251 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=252 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=916 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=3326 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 319,query_id=4253 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_292 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 292,query_id=3480 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_294 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 294,query_id=3754 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=243 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=249 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=450 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=54 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=873 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=245 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=878 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=244 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=258 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=255 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=246 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=879 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=2826 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=451 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=3064 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=3144 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=3142 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=3148 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=874 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=177 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=290 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=875 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=355 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=1322 total = 0 seconds
+Log datetime=2025-02-10 11:02:39 Data is already preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-06, dashboard_id = 14,query_id=4413 total = 0 seconds
+Log datetime=2025-02-12 14:38:11 Preprocessed apd_report_14 start_date=2020-08-10, end_date=2025-02-08, dashboard_id = 14,query_id=874 total = 3 seconds
+Log datetime=2025-02-12 16:06:18 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-08, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-12 16:08:15 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-08, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-12 16:09:42 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-08, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-12 16:16:07 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-08, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-12 16:17:35 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-08, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-13 10:10:59 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-09, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-14 09:27:13 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-14 15:22:21 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-14 15:40:57 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-14 20:45:45 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-14 20:48:04 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-14 20:58:49 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-14 21:05:52 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-14 21:45:00 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 12 seconds
+Log datetime=2025-02-14 22:53:22 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-14 23:00:54 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4238 total = 174 seconds
+Log datetime=2025-02-14 23:35:37 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-10, dashboard_id = 319,query_id=4248 total = 3 seconds
+Log datetime=2025-02-15 00:08:17 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4258 total = 2 seconds
+Log datetime=2025-02-15 00:19:00 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4259 total = 2 seconds
+Log datetime=2025-02-15 10:01:41 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4232 total = 3 seconds
+Log datetime=2025-02-15 10:09:11 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4237 total = 2 seconds
+Log datetime=2025-02-15 10:12:30 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4237 total = 3 seconds
+Log datetime=2025-02-15 10:14:37 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4237 total = 2 seconds
+Log datetime=2025-02-15 10:20:26 Preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4237 total = 3 seconds
+Log datetime=2025-02-15 10:22:25 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4237 total = 3 seconds
+Log datetime=2025-02-15 10:23:13 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4237 total = 2 seconds
+Log datetime=2025-02-15 10:30:15 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4237 total = 9 seconds
+Log datetime=2025-02-15 10:35:15 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4243 total = 2 seconds
+Log datetime=2025-02-15 10:40:18 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4243 total = 3 seconds
+Log datetime=2025-02-15 11:02:54 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4243 total = 13 seconds
+Log datetime=2025-02-15 11:09:06 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4255 total = 9 seconds
+Log datetime=2025-02-15 11:13:14 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4240 total = 10 seconds
+Log datetime=2025-02-15 11:15:56 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4240 total = 3 seconds
+Log datetime=2025-02-15 11:24:23 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4233 total = 11 seconds
+Log datetime=2025-02-15 11:34:29 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4256 total = 12 seconds
+Log datetime=2025-02-15 11:40:58 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4228 total = 27 seconds
+Log datetime=2025-02-15 11:47:40 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4270 total = 13 seconds
+Log datetime=2025-02-15 11:53:57 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4270 total = 19 seconds
+Log datetime=2025-02-15 13:28:18 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4265 total = 10 seconds
+Log datetime=2025-02-15 13:33:39 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4258 total = 2 seconds
+Log datetime=2025-02-15 13:34:42 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4258 total = 3 seconds
+Log datetime=2025-02-15 13:35:48 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4258 total = 12 seconds
+Log datetime=2025-02-15 13:42:17 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4229 total = 3 seconds
+Log datetime=2025-02-15 13:43:23 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4229 total = 9 seconds
+Log datetime=2025-02-15 13:47:53 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4227 total = 8 seconds
+Log datetime=2025-02-15 13:57:00 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4227 total = 3 seconds
+Log datetime=2025-02-15 21:26:24 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4268 total = 3 seconds
+Log datetime=2025-02-15 21:26:57 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4268 total = 3 seconds
+Log datetime=2025-02-15 21:28:53 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4268 total = 13 seconds
+Log datetime=2025-02-15 21:34:17 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4247 total = 2 seconds
+Log datetime=2025-02-15 21:36:02 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4247 total = 2 seconds
+Log datetime=2025-02-15 21:37:54 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4247 total = 3 seconds
+Log datetime=2025-02-15 21:39:47 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4247 total = 14 seconds
+Log datetime=2025-02-15 21:46:25 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4234 total = 3 seconds
+Log datetime=2025-02-15 21:52:04 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4234 total = 13 seconds
+Log datetime=2025-02-15 22:11:22 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4234 total = 12 seconds
+Log datetime=2025-02-15 22:20:05 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4260 total = 3 seconds
+Log datetime=2025-02-15 22:21:08 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4260 total = 28 seconds
+Log datetime=2025-02-15 22:26:42 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4249 total = 10 seconds
+Log datetime=2025-02-15 22:33:16 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4274 total = 3 seconds
+Log datetime=2025-02-15 22:34:29 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4274 total = 14 seconds
+Log datetime=2025-02-15 22:40:39 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4254 total = 3 seconds
+Log datetime=2025-02-15 22:41:29 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4254 total = 3 seconds
+Log datetime=2025-02-15 22:42:13 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4254 total = 3 seconds
+Log datetime=2025-02-15 22:43:14 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4254 total = 3 seconds
+Log datetime=2025-02-15 22:48:34 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4254 total = 3 seconds
+Log datetime=2025-02-15 22:50:51 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4254 total = 27 seconds
+Log datetime=2025-02-15 22:58:26 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4242 total = 27 seconds
+Log datetime=2025-02-15 23:04:31 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4276 total = 3 seconds
+Log datetime=2025-02-15 23:10:12 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4276 total = 17 seconds
+Log datetime=2025-02-15 23:17:07 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4252 total = 14 seconds
+Log datetime=2025-02-15 23:21:00 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4241 total = 5 seconds
+Log datetime=2025-02-15 23:36:10 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4230 total = 2 seconds
+Log datetime=2025-02-15 23:41:07 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4230 total = 2 seconds
+Log datetime=2025-02-15 23:42:34 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-11, dashboard_id = 319,query_id=4230 total = 10 seconds
+Log datetime=2025-02-16 21:54:18 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4230 total = 12 seconds
+Log datetime=2025-02-16 22:05:31 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4267 total = 2 seconds
+Log datetime=2025-02-16 22:07:00 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4267 total = 9 seconds
+Log datetime=2025-02-16 22:17:04 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4264 total = 3 seconds
+Log datetime=2025-02-16 22:19:08 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4264 total = 9 seconds
+Log datetime=2025-02-16 22:24:16 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4268 total = 17 seconds
+Log datetime=2025-02-16 22:34:36 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4271 total = 9 seconds
+Log datetime=2025-02-16 22:39:08 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4263 total = 3 seconds
+Log datetime=2025-02-16 22:40:38 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4263 total = 5 seconds
+Log datetime=2025-02-16 22:48:48 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4236 total = 3 seconds
+Log datetime=2025-02-16 22:49:58 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4236 total = 3 seconds
+Log datetime=2025-02-16 22:53:18 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4236 total = 6 seconds
+Log datetime=2025-02-16 23:40:04 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4235 total = 4 seconds
+Log datetime=2025-02-16 23:42:08 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4235 total = 11 seconds
+Log datetime=2025-02-16 23:46:12 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4261 total = 3 seconds
+Log datetime=2025-02-16 23:47:06 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4261 total = 9 seconds
+Log datetime=2025-02-16 23:55:13 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4275 total = 6 seconds
+Log datetime=2025-02-16 23:57:10 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-12, dashboard_id = 319,query_id=4246 total = 5 seconds
+Log datetime=2025-02-17 00:02:52 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4257 total = 5 seconds
+Log datetime=2025-02-17 00:07:42 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4257 total = 2 seconds
+Log datetime=2025-02-17 00:08:20 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4257 total = 9 seconds
+Log datetime=2025-02-17 00:08:56 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4257 total = 5 seconds
+Log datetime=2025-02-17 00:10:03 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4239 total = 6 seconds
+Log datetime=2025-02-17 00:13:11 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4231 total = 2 seconds
+Log datetime=2025-02-17 00:13:57 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4231 total = 7 seconds
+Log datetime=2025-02-17 00:20:54 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4273 total = 8 seconds
+Log datetime=2025-02-17 00:23:17 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4277 total = 3 seconds
+Log datetime=2025-02-17 00:24:12 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4277 total = 5 seconds
+Log datetime=2025-02-17 00:26:18 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4272 total = 5 seconds
+Log datetime=2025-02-17 00:29:45 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4262 total = 7 seconds
+Log datetime=2025-02-17 00:32:21 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4269 total = 9 seconds
+Log datetime=2025-02-17 00:36:06 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4269 total = 14 seconds
+Log datetime=2025-02-17 00:39:15 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4245 total = 25 seconds
+Log datetime=2025-02-17 00:44:44 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4245 total = 17 seconds
+Log datetime=2025-02-17 00:50:32 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4250 total = 151 seconds
+Log datetime=2025-02-17 01:00:50 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4226 total = 6 seconds
+Log datetime=2025-02-17 01:00:59 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4238 total = 8 seconds
+Log datetime=2025-02-17 01:01:10 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4248 total = 11 seconds
+Log datetime=2025-02-17 01:01:19 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4259 total = 9 seconds
+Log datetime=2025-02-17 01:01:27 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4232 total = 7 seconds
+Log datetime=2025-02-17 01:01:36 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4237 total = 9 seconds
+Log datetime=2025-02-17 01:01:45 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4243 total = 9 seconds
+Log datetime=2025-02-17 01:01:58 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4255 total = 12 seconds
+Log datetime=2025-02-17 01:02:10 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4240 total = 11 seconds
+Log datetime=2025-02-17 01:02:23 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4233 total = 13 seconds
+Log datetime=2025-02-17 01:02:36 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4256 total = 12 seconds
+Log datetime=2025-02-17 01:02:59 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4228 total = 23 seconds
+Log datetime=2025-02-17 01:03:13 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4270 total = 14 seconds
+Log datetime=2025-02-17 01:03:27 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4265 total = 13 seconds
+Log datetime=2025-02-17 01:03:38 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4258 total = 11 seconds
+Log datetime=2025-02-17 01:03:46 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4229 total = 8 seconds
+Log datetime=2025-02-17 01:03:50 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4227 total = 3 seconds
+Log datetime=2025-02-17 01:03:59 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4268 total = 9 seconds
+Log datetime=2025-02-17 01:04:18 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4247 total = 18 seconds
+Log datetime=2025-02-17 01:04:30 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4234 total = 11 seconds
+Log datetime=2025-02-17 01:04:42 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4260 total = 11 seconds
+Log datetime=2025-02-17 01:04:53 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4249 total = 11 seconds
+Log datetime=2025-02-17 01:05:05 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4274 total = 12 seconds
+Log datetime=2025-02-17 01:05:25 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4254 total = 19 seconds
+Log datetime=2025-02-17 01:05:43 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4242 total = 18 seconds
+Log datetime=2025-02-17 01:05:57 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4276 total = 13 seconds
+Log datetime=2025-02-17 01:06:12 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4252 total = 14 seconds
+Log datetime=2025-02-17 01:06:18 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4241 total = 6 seconds
+Log datetime=2025-02-17 01:06:32 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4230 total = 14 seconds
+Log datetime=2025-02-17 01:06:40 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4267 total = 7 seconds
+Log datetime=2025-02-17 01:06:48 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4264 total = 8 seconds
+Log datetime=2025-02-17 01:06:56 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4271 total = 8 seconds
+Log datetime=2025-02-17 01:07:02 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4263 total = 5 seconds
+Log datetime=2025-02-17 01:07:11 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4236 total = 9 seconds
+Log datetime=2025-02-17 01:07:22 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4235 total = 11 seconds
+Log datetime=2025-02-17 01:07:35 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4261 total = 12 seconds
+Log datetime=2025-02-17 01:07:41 Preprocessed apd_report_319 Successful start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4275 total = 6 seconds
+Log datetime=2025-02-17 01:08:24 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4226 total = 3 seconds
+Log datetime=2025-02-17 01:08:29 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4238 total = 5 seconds
+Log datetime=2025-02-17 01:08:37 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4248 total = 7 seconds
+Log datetime=2025-02-17 01:08:43 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4259 total = 6 seconds
+Log datetime=2025-02-17 01:08:47 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4232 total = 3 seconds
+Log datetime=2025-02-17 01:08:53 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4237 total = 6 seconds
+Log datetime=2025-02-17 01:08:58 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4243 total = 5 seconds
+Log datetime=2025-02-17 01:09:04 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4255 total = 5 seconds
+Log datetime=2025-02-17 01:09:10 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4240 total = 6 seconds
+Log datetime=2025-02-17 01:09:15 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4233 total = 4 seconds
+Log datetime=2025-02-17 01:09:20 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4256 total = 5 seconds
+Log datetime=2025-02-17 01:09:29 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4228 total = 8 seconds
+Log datetime=2025-02-17 01:09:37 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4270 total = 8 seconds
+Log datetime=2025-02-17 01:09:46 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4265 total = 8 seconds
+Log datetime=2025-02-17 01:09:54 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4258 total = 8 seconds
+Log datetime=2025-02-17 01:09:59 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4229 total = 5 seconds
+Log datetime=2025-02-17 01:10:00 Preprocessed apd_report_319 Failed start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4227 total = 0 seconds
+Log datetime=2025-02-17 01:10:09 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4268 total = 8 seconds
+Log datetime=2025-02-17 01:10:19 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4247 total = 9 seconds
+Log datetime=2025-02-17 01:10:27 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4234 total = 8 seconds
+Log datetime=2025-02-17 01:10:34 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4260 total = 7 seconds
+Log datetime=2025-02-17 01:10:41 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4249 total = 6 seconds
+Log datetime=2025-02-17 01:10:51 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4274 total = 10 seconds
+Log datetime=2025-02-17 01:10:59 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4254 total = 7 seconds
+Log datetime=2025-02-17 01:11:07 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4242 total = 7 seconds
+Log datetime=2025-02-17 01:11:14 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4276 total = 7 seconds
+Log datetime=2025-02-17 01:11:21 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4252 total = 7 seconds
+Log datetime=2025-02-17 01:11:25 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4241 total = 3 seconds
+Log datetime=2025-02-17 01:11:35 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4230 total = 10 seconds
+Log datetime=2025-02-17 01:11:40 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4267 total = 5 seconds
+Log datetime=2025-02-17 01:11:47 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4264 total = 6 seconds
+Log datetime=2025-02-17 01:11:51 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4271 total = 4 seconds
+Log datetime=2025-02-17 01:11:54 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4263 total = 2 seconds
+Log datetime=2025-02-17 01:11:59 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4236 total = 4 seconds
+Log datetime=2025-02-17 01:12:07 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4235 total = 8 seconds
+Log datetime=2025-02-17 01:12:15 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4261 total = 7 seconds
+Log datetime=2025-02-17 01:12:18 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4275 total = 3 seconds
+Log datetime=2025-02-17 01:12:22 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4246 total = 4 seconds
+Log datetime=2025-02-17 01:12:27 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4257 total = 4 seconds
+Log datetime=2025-02-17 01:12:33 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4239 total = 6 seconds
+Log datetime=2025-02-17 01:12:40 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4231 total = 6 seconds
+Log datetime=2025-02-17 01:12:45 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4273 total = 5 seconds
+Log datetime=2025-02-17 01:12:49 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4277 total = 4 seconds
+Log datetime=2025-02-17 01:12:54 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4272 total = 4 seconds
+Log datetime=2025-02-17 01:12:58 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4262 total = 4 seconds
+Log datetime=2025-02-17 01:13:10 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4269 total = 11 seconds
+Log datetime=2025-02-17 01:13:23 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4245 total = 12 seconds
+Log datetime=2025-02-17 01:14:01 Preprocessed apd_report_319 Failed start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4250 total = 38 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4248 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4259 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4232 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4237 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4243 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4255 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4240 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4233 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4256 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4228 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4270 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4265 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4258 total = 0 seconds
+Log datetime=2025-02-17 08:33:38 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4229 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Preprocessed apd_report_319 Failed start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4227 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4268 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4247 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4234 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4260 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4249 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4274 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4254 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4242 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4276 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4252 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4241 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4230 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4267 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4264 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4271 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4263 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4236 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4235 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4261 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4275 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4246 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4257 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4239 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4231 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4273 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4277 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4272 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4262 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4269 total = 0 seconds
+Log datetime=2025-02-17 08:33:39 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4245 total = 0 seconds
+Log datetime=2025-02-17 08:34:24 Preprocessed apd_report_319 Failed start_date=2025-01-01, end_date=2025-02-04, dashboard_id = 319,query_id=4250 total = 44 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4248 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4259 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4232 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4237 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4243 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4255 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4240 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4233 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4256 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4228 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4270 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4265 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4258 total = 0 seconds
+Log datetime=2025-02-17 08:34:34 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4229 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4227 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4268 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4247 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4234 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4260 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4249 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4274 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4254 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4242 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4276 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4252 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4241 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4230 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4267 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4264 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4271 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4263 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4236 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4235 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4261 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4275 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4246 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4257 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4239 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4231 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4273 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4277 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4272 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4262 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4269 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4245 total = 0 seconds
+Log datetime=2025-02-17 08:34:35 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4250 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4226 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4238 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4248 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4259 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4232 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4237 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4243 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4255 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4240 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4233 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4256 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4228 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4270 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4265 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4258 total = 0 seconds
+Log datetime=2025-02-17 10:30:53 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4229 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Preprocessed apd_report_319 Failed start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4227 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4268 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4247 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4234 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4260 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4249 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4274 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4254 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4242 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4276 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4252 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4241 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4230 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4267 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4264 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4271 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4263 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4236 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4235 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4261 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4275 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4246 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4257 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4239 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4231 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4273 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4277 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4272 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4262 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4269 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4245 total = 0 seconds
+Log datetime=2025-02-17 10:30:54 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4250 total = 0 seconds
+Log datetime=2025-02-17 10:31:33 Data is already preprocessed apd_report_319 start_date=2020-08-10, end_date=2025-02-13, dashboard_id = 319,query_id=4232 total = 0 seconds
+Log datetime=2025-02-17 11:11:35 Data is already preprocessed apd_report_319 start_date=2025-01-01, end_date=2025-01-31, dashboard_id = 319,query_id=4232 total = 0 seconds
+Log datetime=2025-02-17 11:41:58 Preprocessed apd_report_319 Failed start_date=2025-01-01, end_date=2025-01-31, dashboard_id = 319,query_id=4250 total = 19 seconds
+Log datetime=2025-02-17 11:48:34 Preprocessed apd_report_319 Successful start_date=2025-01-01, end_date=2025-01-31, dashboard_id = 319,query_id=4250 total = 47 seconds
