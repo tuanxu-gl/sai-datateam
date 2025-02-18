@@ -1,0 +1,12 @@
+[
+    {
+        "dashboard": 319,
+        "query": 4250,
+        "kpi_name": "Engagement KPIs:  Returning Users per New Users",
+        "date_filter": "client_time",
+        "columns": [
+            ["kpi","string"],
+            ["value","string"]
+        ]
+    }
+]

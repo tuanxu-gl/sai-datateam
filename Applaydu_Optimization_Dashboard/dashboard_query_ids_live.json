@@ -1,0 +1,641 @@
+[
+    {
+        "dashboard": 14,
+        "query": 789
+    },
+    {
+        "dashboard": 14,
+        "query": 3183
+    },
+    {
+        "dashboard": 292,
+        "query": 3852
+    },
+    {
+        "dashboard": 14,
+        "query": 2899
+    },
+    {
+        "dashboard": 319,
+        "query": 4266
+    },
+    {
+        "dashboard": 319,
+        "query": 4251
+    },
+    {
+        "dashboard": 14,
+        "query": 263
+    },
+    {
+        "dashboard": 14,
+        "query": 3180
+    },
+    {
+        "dashboard": 14,
+        "query": 256
+    },
+    {
+        "dashboard": 14,
+        "query": 253
+    },
+    {
+        "dashboard": 14,
+        "query": 251
+    },
+    {
+        "dashboard": 14,
+        "query": 252
+    },
+    {
+        "dashboard": 14,
+        "query": 916
+    },
+    {
+        "dashboard": 14,
+        "query": 3326
+    },
+    {
+        "dashboard": 319,
+        "query": 4253
+    },
+    {
+        "dashboard": 292,
+        "query": 3480
+    },
+    {
+        "dashboard": 294,
+        "query": 3754,
+        "kpi_name": "Overall KPIs Eduland Kinderini",
+        "columns": [
+            [
+                "Number of user launch Kinderini",
+                "number"
+            ],
+            [
+                "APD users",
+                "number"
+            ],
+            [
+                "Number of Kinderini sessions",
+                "number"
+            ],
+            [
+                "% APD users launch Kinderini",
+                "number"
+            ],
+            [
+                "avg_time_spent",
+                "number"
+            ],
+            [
+                "AVG Number of Kinderini sessions per user",
+                "number"
+            ],
+            [
+                "Average time spent per user in Kinderini",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 243,
+        "kpi_name": "Top 30 countries",
+        "columns": [
+            [
+                "Country name",
+                "string"
+            ],
+            [
+                "Downloads",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 249,
+        "kpi_name": "Total Downloads",
+        "columns": [
+            [
+                "Shop",
+                "string"
+            ],
+            [
+                "Total Installations",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 450,
+        "kpi_name": "Daily Downloads",
+        "columns": [
+            [
+                "Date",
+                "string"
+            ],
+            [
+                "Daily Downloads",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 54,
+        "kpi_name": "Downloads per Country",
+        "columns": [
+            [
+                "Country name",
+                "string"
+            ],
+            [
+                "Users",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 873,
+        "kpi_name": "Number of scans v3",
+        "columns": [
+            [
+                "Scan type",
+                "string"
+            ],
+            [
+                "Scans",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 245,
+        "kpi_name": "Physical toys brought to life - Time spent by users who have scanned surprises",
+        "columns": [
+            [
+                "Time spent",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 878,
+        "kpi_name": "Time spent per session by users who have scanned surprises",
+        "columns": [
+            [
+                "sum_sessions_count",
+                "number"
+            ],
+            [
+                "sum_total_time_spent",
+                "number"
+            ],
+            [
+                "time_result",
+                "number"
+            ],
+            [
+                "Time spent",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 244,
+        "kpi_name": "Physical toys brought to life - Users who have scanned surprises",
+        "columns": [
+            [
+                "Users who have scanned surprises",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 258,
+        "kpi_name": "Average Surprises Scanned per User",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "total_users",
+                "number"
+            ],
+            [
+                "sum_toy_unlocked_count",
+                "number"
+            ],
+            [
+                "sum_scan_mode_finished_count",
+                "number"
+            ],
+            [
+                "total_scans",
+                "number"
+            ],
+            [
+                "Average Toys Scanned per User",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 255,
+        "kpi_name": "Average Time per Session",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "Total time spent",
+                "number"
+            ],
+            [
+                "Total Session",
+                "number"
+            ],
+            [
+                "time_result",
+                "number"
+            ],
+            [
+                "Average Time per Users",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 246,
+        "kpi_name": "Physical toys brought to life - Time spent by users who haven t scanned surprises",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "users",
+                "number"
+            ],
+            [
+                "sum_total_time_spent",
+                "number"
+            ],
+            [
+                "time_result",
+                "number"
+            ],
+            [
+                "Time spent",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 879,
+        "kpi_name": "Time spent per session by users who havent scanned surprises",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "sum_sessions_count",
+                "number"
+            ],
+            [
+                "sum_total_time_spent",
+                "number"
+            ],
+            [
+                "time_result",
+                "number"
+            ],
+            [
+                "Time spent",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 2826,
+        "kpi_name": "Total sessions and sessions per user by game",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "Minigame",
+                "string"
+            ],
+            [
+                "Users count",
+                "number"
+            ],
+            [
+                "Sessions",
+                "number"
+            ],
+            [
+                "Sessions per user",
+                "number"
+            ],
+            [
+                "total_time_spent",
+                "number"
+            ],
+            [
+                "Average time spent per game per user (minute)",
+                "number"
+            ],
+            [
+                "Average time spent per game per user (min - sec)",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 451,
+        "kpi_name": "Average time spent per game per user",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "Minigame",
+                "string"
+            ],
+            [
+                "Users count",
+                "number"
+            ],
+            [
+                "Sessions",
+                "number"
+            ],
+            [
+                "Sessions per user",
+                "number"
+            ],
+            [
+                "total_time_spent",
+                "number"
+            ],
+            [
+                "Average time spent per game per user (minute)",
+                "number"
+            ],
+            [
+                "Average time spent per game per session (minute)",
+                "number"
+            ],
+            [
+                "Average time spent per game per user (min - sec)",
+                "string"
+            ],
+            [
+                "Average time spent per game per session (min - sec)",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 3064,
+        "kpi_name": "Users play at least 2 times by Mini Game",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "minigame",
+                "string"
+            ],
+            [
+                "Users replay",
+                "number"
+            ],
+            [
+                "Total users",
+                "number"
+            ],
+            [
+                "percentage",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 3144,
+        "kpi_name": "Percentage of Applaydu users played each Dedicated Experience",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "Environment",
+                "string"
+            ],
+            [
+                "Percentage",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 3142,
+        "kpi_name": "Time spent per user and Time spent per session by Dedicated Experience",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "environment",
+                "string"
+            ],
+            [
+                "No of Session",
+                "number"
+            ],
+            [
+                "No of Users",
+                "number"
+            ],
+            [
+                "Sessions per user",
+                "number"
+            ],
+            [
+                "Time spent per user (min)",
+                "number"
+            ],
+            [
+                "Time spent per session (min)",
+                "number"
+            ],
+            [
+                "Time spent per user (min - sec)",
+                "string"
+            ],
+            [
+                "Time spent per session (min - sec)",
+                "string"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 3148,
+        "kpi_name": "Users play at least 2 times  by each Dedicated Experience",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "environment",
+                "string"
+            ],
+            [
+                "Users replay",
+                "number"
+            ],
+            [
+                "Total users",
+                "number"
+            ],
+            [
+                "percentage",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 874,
+        "kpi_name": "Total Scans (QR + Vignettes) splitted between Mainstream vs. Licensing toys v3",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "Category",
+                "string"
+            ],
+            [
+                "Total Scans",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 177,
+        "kpi_name": "Total toy unlocked by Scan Toy and QR/Leaflet",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "Toy name",
+                "string"
+            ],
+            [
+                "Scan Toy",
+                "number"
+            ],
+            [
+                "Scan QR/Leaflet",
+                "number"
+            ],
+            [
+                "Total scan",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 290,
+        "kpi_name": "Total toy unlocked by Scan Toy and QR/Leaflet",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "Week",
+                "string"
+            ],
+            [
+                "Users who have scanned surprises",
+                "number"
+            ],
+            [
+                "total_users",
+                "number"
+            ],
+            [
+                "Rate Users scanned the toys/total",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 875,
+        "kpi_name": "Number of scans v3 - by leftover toys",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "Leftover type",
+                "string"
+            ],
+            [
+                "total_scans",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 355,
+        "kpi_name": "Total Scans (QR + Vignettes) Licensing toys by surprise family",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "Surprise family",
+                "string"
+            ],
+            [
+                "Total Scans",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 1322,
+        "kpi_name": "Number of scans v3 - daily",
+        "date_filter": "server_date",
+        "columns": [
+            [
+                "Server date",
+                "string"
+            ],
+            [
+                "Total Scans",
+                "number"
+            ]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 4413,
+        "kpi_name": "P3 MAU by inflow source",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "grass_month",
+                "string"
+            ],
+            [
+                "starting_persona",
+                "string"
+            ],
+            [
+                "persona",
+                "string"
+            ],
+            [
+                "user_cnt",
+                "number"
+            ]
+        ]
+    }
+]

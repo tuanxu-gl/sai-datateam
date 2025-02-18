@@ -1,21 +1,21 @@
 DECLARE r319_q4250 ARRAY<STRUCT<`kpi` STRING,`value` STRING>>;
 
-DECLARE row_count FLOAT64;
-SET row_count = (
-  SELECT COUNT(0) 
-  FROM `applaydu.apd_report_319`
-  WHERE 1=1 
-    AND DATE(start_date) = GREATEST((SELECT MIN(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), '2020-08-10')
-    AND DATE(end_date) = LEAST((SELECT MAX(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), DATE_SUB(CURRENT_DATE(), INTERVAL 4 DAY))
-    AND ((SELECT COUNT(0) FROM `applaydu.tbl_country_filter`) = (SELECT COUNT(0) FROM `applaydu.tbl_country_filter` WHERE 1=1 [[AND {{icountry}}]]))
-    AND dashboard_id = 319 
-    AND query_id = 4250
-);
-
-IF row_count = 0 THEN
-  SET r319_q4250 = (
-    SELECT ARRAY(
-      with gb4250 as (SELECT 0)
+  DECLARE row_count FLOAT64;
+  SET row_count = (
+    SELECT COUNT(0) 
+    FROM `applaydu.apd_report_319`
+    WHERE 1=1 
+      AND DATE(start_date) = GREATEST((SELECT MIN(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), '2020-08-10')
+      AND DATE(end_date) = LEAST((SELECT MAX(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), DATE_SUB(CURRENT_DATE(), INTERVAL 4 DAY))
+      AND ((SELECT COUNT(0) FROM `applaydu.tbl_country_filter`) = (SELECT COUNT(0) FROM `applaydu.tbl_country_filter` WHERE 1=1 [[AND {{icountry}}]]))
+      AND dashboard_id = 319 
+      AND query_id = 4250
+  );
+  
+  IF row_count = 0 THEN
+    SET r319_q4250 = (
+      SELECT ARRAY(
+        with gb4250 as (SELECT 0)
 ,tbl_install as (
     SELECT user_id, DATE(MIN(install_date)) as install_date
     FROM `gcp-bi-elephant-db-gold.applaydu.user_activity`
@@ -240,25 +240,26 @@ order by kpi asc
 )
 --main query
 SELECT AS STRUCT * from result
-    )
-  );
-  
-ELSE
-  SET r319_q4250 = (
-    SELECT ARRAY_AGG(
-      STRUCT(
-         CAST(value1_str as STRING) as `kpi`, CAST(value2_str as STRING) as `value`
       )
-    )
-    FROM 
-      `gcp-gfb-sai-tracking-gold.applaydu.apd_report_319`
-    WHERE 
-      DATE(start_date) = GREATEST((SELECT MIN(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), '2020-08-10')
-      AND DATE(end_date) = LEAST((SELECT MAX(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), DATE_SUB(CURRENT_DATE(), INTERVAL 4 DAY))
-      AND ((SELECT COUNT(0) FROM `applaydu.tbl_country_filter`) = (SELECT COUNT(0) FROM `applaydu.tbl_country_filter` WHERE 1=1 [[AND {{icountry}}]]))
-      AND dashboard_id = 319 
-      AND query_id = 4250 
-  );
-END IF;
+    );
+    
+  ELSE
+    SET r319_q4250 = (
+      SELECT ARRAY_AGG(
+        STRUCT(
+           CAST(value1_str as STRING) as `kpi`, CAST(value2_str as STRING) as `value`
+        )
+      )
+      FROM 
+        `gcp-gfb-sai-tracking-gold.applaydu.apd_report_319`
+      WHERE 
+        DATE(start_date) = GREATEST((SELECT MIN(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), '2020-08-10')
+        AND DATE(end_date) = LEAST((SELECT MAX(server_date) FROM `applaydu.tbl_date_filter` WHERE 1=1 [[AND {{idate}}]]), DATE_SUB(CURRENT_DATE(), INTERVAL 4 DAY))
+        AND ((SELECT COUNT(0) FROM `applaydu.tbl_country_filter`) = (SELECT COUNT(0) FROM `applaydu.tbl_country_filter` WHERE 1=1 [[AND {{icountry}}]]))
+        AND dashboard_id = 319 
+        AND query_id = 4250 
+    );
+  END IF;
 
-SELECT * FROM UNNEST(r319_q4250);
+  SELECT * FROM UNNEST(r319_q4250);
+  

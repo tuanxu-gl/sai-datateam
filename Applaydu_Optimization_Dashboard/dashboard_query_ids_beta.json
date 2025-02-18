@@ -1,0 +1,26 @@
+[
+    {
+        "dashboard": 14,
+        "query": 4413,
+        "kpi_name": "P3 MAU by inflow source",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "grass_month",
+                "string"
+            ],
+            [
+                "starting_persona",
+                "string"
+            ],
+            [
+                "persona",
+                "string"
+            ],
+            [
+                "user_cnt",
+                "number"
+            ]
+        ]
+    }
+]

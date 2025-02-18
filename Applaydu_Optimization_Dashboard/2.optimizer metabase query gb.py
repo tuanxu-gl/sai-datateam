@@ -1,4 +1,4 @@
-from modules import apd_optimize_metabase_preprocess_gb as optimizer
+from modules import apd_3_optimizer_gb as optimizer
 #from modules import apd_preprocess_consumer_data as preprocess
 from utils import ultils as ultils
 

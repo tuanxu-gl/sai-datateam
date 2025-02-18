@@ -8,8 +8,8 @@ import datetime
 from dateutil.relativedelta import relativedelta
 import configs
 import utils.ultils as ultils
-from google.cloud import bigquery
-import os
+
+
 from datetime import datetime
 
 def f_get_preprocessed_data(conn,table_name):
@@ -74,56 +74,50 @@ def f_write_log(log_txt):
     with open("log.txt", "a") as f:
         f.write(log_txt + "\n")
 
-def start(apd_version):
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'cre/gcp-gfb-sai-tracking-gold.json'
+def start(conn,df_preprocessed,dashboard_query_id):
 
-    conn = bigquery.Client()
     for date_range in configs.date_ranges:
         start_date = date_range['start_date']
         #end_date = configs.consumer_preprocess_end_date[apd_version]
         str_start_date = date_range['start_date'] #2025-01-01
         str_end_date = date_range['end_date'] #2025-01-31
        
-        str_sql = {}
-        df_snowflake= {}
-        for dashboard_id in configs.dashboards_supported:
-            df_snowflake["apd_report_%d"%(dashboard_id)] = f_get_preprocessed_data(conn, "apd_report_%d" % dashboard_id)
 
-        for dashboard_query_id in configs.dashboard_query_ids:
-            time_start_preprocess = datetime.now()
-        
-                
+        time_start_preprocess = datetime.now()
+    
+            
 
-            table_name = "apd_report_%d"%(dashboard_query_id['dashboard'])
+        table_name = "apd_report_%d"%(dashboard_query_id['dashboard'])
 
-            if(configs.overide_old_data == True):
+        if(configs.overide_old_data == True):
 
-                f_delete_old_data(conn, table_name, dashboard_query_id['dashboard'], dashboard_query_id['query'], str_start_date, str_end_date)
-            else:
-                #check if the data is already preprocessed
-                df_check = df_snowflake[table_name]
+            f_delete_old_data(conn, table_name, dashboard_query_id['dashboard'], dashboard_query_id['query'], str_start_date, str_end_date)
+        else:
+            #check if the data is already preprocessed
+            df_check = df_preprocessed[table_name]
 
-                if df_check is not None and not df_check.empty:
-                    if(len(df_check[(df_check['dashboard_id'] == dashboard_query_id['dashboard']) & (df_check['query_id'] == dashboard_query_id['query']) & (df_check['start_date'] == str_start_date) & (df_check['end_date'] == str_end_date)]) > 0):
-                        time_end_preprocess = datetime.now()
-                        log_txt = "Log datetime=%s Data is already preprocessed %s start_date=%s, end_date=%s, dashboard_id = %d,query_id=%d total = %d seconds"%(
-                            datetime.now().strftime("%Y-%m-%d %H:%M:%S"),table_name, str_start_date, str_end_date, dashboard_query_id['dashboard'], dashboard_query_id['query'], (time_end_preprocess - time_start_preprocess).seconds)
-                        
-                        f_write_log(log_txt)
+            if df_check is not None and not df_check.empty:
+                if(len(df_check[(df_check['dashboard_id'] == dashboard_query_id['dashboard']) & (df_check['query_id'] == dashboard_query_id['query']) & (df_check['start_date'] == str_start_date) & (df_check['end_date'] == str_end_date)]) > 0):
+                    time_end_preprocess = datetime.now()
+                    log_txt = "Log datetime=%s Data is already preprocessed %s start_date=%s, end_date=%s, dashboard_id = %d,query_id=%d total = %d seconds"%(
+                        datetime.now().strftime("%Y-%m-%d %H:%M:%S"),table_name, str_start_date, str_end_date, dashboard_query_id['dashboard'], dashboard_query_id['query'], (time_end_preprocess - time_start_preprocess).seconds)
+                    
+                    f_write_log(log_txt)
 
-                        continue
-            f_sql = open(configs.SQLs_Path+'apd_report_%d_%d.sql'%(dashboard_query_id['dashboard'], dashboard_query_id['query']))
-            str_sql = f_sql.read()
+                    continue
+        f_sql = open(configs.SQLs_Path+'apd_report_%d_%d.sql'%(dashboard_query_id['dashboard'], dashboard_query_id['query']))
+        str_sql = f_sql.read()
 
 
 
-            result = f_preprocess_report_data(conn,table_name,str_sql,dashboard_query_id['dashboard'], dashboard_query_id['query'],str_start_date, str_end_date)
+        result = f_preprocess_report_data(conn,table_name,str_sql,dashboard_query_id['dashboard'], dashboard_query_id['query'],str_start_date, str_end_date)
 
-            time_end_preprocess = datetime.now()
+        time_end_preprocess = datetime.now()
 
-            log_txt =  "Log datetime=%s Preprocessed %s %s start_date=%s, end_date=%s, dashboard_id = %d,query_id=%d total = %d seconds"%(
-                datetime.now().strftime("%Y-%m-%d %H:%M:%S"),table_name, result, str_start_date, str_end_date, dashboard_query_id['dashboard'], dashboard_query_id['query'], (time_end_preprocess - time_start_preprocess).seconds)
-            f_write_log(log_txt)
-        
+        log_txt =  "Log datetime=%s Preprocessed %s %s start_date=%s, end_date=%s, dashboard_id = %d,query_id=%d total = %d seconds"%(
+            datetime.now().strftime("%Y-%m-%d %H:%M:%S"),table_name, result, str_start_date, str_end_date, dashboard_query_id['dashboard'], dashboard_query_id['query'], (time_end_preprocess - time_start_preprocess).seconds)
+        f_write_log(log_txt)
+    
 
-    conn.close()
+
+
