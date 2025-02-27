@@ -1,0 +1,19 @@
+[
+    {
+        "dashboard": 999,
+        "query": 249,
+        "kpi_name": "Total Downloads",
+        "date_filter": "client_time",
+        "columns": [
+            [
+                "Shop",
+                "string"
+            ],
+            [
+                "Total Installations",
+                "number"
+            ]
+        ]
+    }
+ 
+]

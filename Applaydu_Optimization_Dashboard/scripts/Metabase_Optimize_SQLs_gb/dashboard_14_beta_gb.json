@@ -1,0 +1,17 @@
+[
+    {
+        "dashboard": 14,
+        "query": 3094,
+        "kpi_name": "Time spent per User and per Session by Feature",
+        "date_filter": "client_time",
+        "columns": [
+            ["feature", "string"],
+	    ["session", "int"],
+	    ["Sessions per user", "float"],
+	    ["Time spent per user", "float"],
+	    ["Session Duration", "float"],
+	    ["Time spent per user min - sec", "string"],
+	    ["Session Duration min - sec", "string"]
+        ]
+    }
+]

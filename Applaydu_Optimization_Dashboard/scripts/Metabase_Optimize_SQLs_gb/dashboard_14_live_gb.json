@@ -1,0 +1,168 @@
+[
+    {
+        "dashboard": 14,
+        "query": 249,
+        "kpi_name": "Total Downloads",
+        "date_filter": "client_time",
+        "columns": [
+            ["Shop","string"],
+            ["Total Installations","int"]
+        ]
+    },
+{
+        "dashboard": 14,
+        "query": 247,
+        "kpi_name": "Ratings Google Play",
+        "date_filter": "client_time",
+        "columns": [
+            ["rating","float"]
+        ]
+    },
+     {
+        "dashboard": 14,
+        "query": 243,
+        "kpi_name": "Top 30 countries",
+        "date_filter": "client_time",
+        "columns": [
+            ["Country name", "string"],
+            ["Downloads", "int"]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 288,
+        "kpi_name": "Weekly Downloads",
+        "date_filter": "client_time",
+        "columns": [
+            ["Week", "string"],
+            ["New Installations", "int"]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 450,
+        "kpi_name": "Daily Downloads",
+        "date_filter": "client_time",
+        "columns": [
+            ["Date", "string"],
+            ["Daily Downloads", "int"]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 251,
+        "kpi_name": "Daily Active Users",
+        "date_filter": "client_time",
+        "columns": [
+           ["Client time", "string"],
+    	   ["DAU", "int"]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 54,
+        "kpi_name": "Downloads per Country",
+        "date_filter": "client_time",
+        "columns": [
+           ["Country name", "string"],
+    	   ["Users", "int"]
+        ]
+    },
+     {
+        "dashboard": 14,
+        "query": 252,
+        "kpi_name": "Monthly Active Users",
+        "date_filter": "client_time",
+        "columns": [
+              ["Month", "int"],
+    		["Year", "int"],
+    		["Time", "string"],
+    		["Monthly Active Users", "int"]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 253,
+        "kpi_name": "Number of Sessions",
+        "date_filter": "client_time",
+        "columns": [
+              ["Number of Sessions", "int"]
+    		
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 916,
+        "kpi_name": "Number of Users",
+        "date_filter": "client_time",
+        "columns": [
+              ["Shop", "string"],
+	      ["Total Users","int"]
+    		
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 256,
+        "kpi_name": "Average Time Spent per User",
+        "date_filter": "client_time",
+        "columns": [
+              	["Total time spent", "int"],
+    		["Total Users", "int"],
+    		["time_result", "float"],
+    		["Average Time per Users", "string"]
+    		
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 873,
+        "kpi_name": "Number of scans",
+        "date_filter": "server_date",
+        "columns": [
+    ["Scan type", "string"],
+    ["Scans", "int"]
+
+    		
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 263,
+        "kpi_name": "Generic KPIs",
+        "date_filter": "server_date",
+        "columns": [
+    ["users", "int"],
+    ["sessions", "int"],
+    ["avg_sessions_per_user", "float"],
+    ["sum_total_time_spent", "int"],
+    ["time_spent_per_user", "int"],
+    ["Time spent per user", "string"],
+    ["scan_users", "int"],
+    ["sum_scans", "int"],
+    ["avg_scans", "float"],
+    ["scan_sessions", "int"],
+    ["scan_avg_sessions_per_user", "float"],
+    ["scan_total_time_spent", "int"],
+    ["scan_avg_time_spent_per_user", "float"],
+    ["Time spent per scan user", "string"],
+    ["scan_time_spent_per_session", "float"],
+    ["Time spent per session of scan user", "string"],
+    ["time_spent_per_session","float"],
+    ["Time spent per session","string"],
+    ["Time spent per no scan user", "string"],
+    ["Time spent per session of no scan user", "string"]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 3180,
+        "kpi_name": "% Users Access the Feature",
+        "date_filter": "client_time",
+        "columns": [
+            ["feature","string"],
+            ["Users","int"],
+	    ["% User Access the Feature","float"]
+        ]
+    }
+]

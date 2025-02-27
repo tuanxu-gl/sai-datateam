@@ -105,7 +105,7 @@ def start(conn,df_preprocessed,dashboard_query_id):
                     f_write_log(log_txt)
 
                     continue
-        f_sql = open(configs.SQLs_Path+'apd_report_%d_%d.sql'%(dashboard_query_id['dashboard'], dashboard_query_id['query']))
+        f_sql = open(configs.SQLs_Path+'r%d'%dashboard_query_id['dashboard'] + '/apd_report_%d_%d.sql'%(dashboard_query_id['dashboard'], dashboard_query_id['query']))
         str_sql = f_sql.read()
 
 

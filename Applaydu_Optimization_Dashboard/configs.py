@@ -14,31 +14,25 @@ str_date_4 = ("%d-%.2d-%.2d" % (now_4.year, now_4.month, now_4.day))
 str_today = ("%d-%.2d-%.2d" % (now.year, now.month, now.day))
 
 date_ranges = [
-  #  {'start_date':'2020-08-10', 'end_date':str_date_4},
-    {'start_date':'2025-01-01', 'end_date':'2025-01-31'},
+    #{'start_date':'2020-08-10', 'end_date':str_date_4},
+    {'start_date':'2025-02-01', 'end_date':'2025-02-15'},
 ]
 
-
-
-variables_keep_original = ['Shop','avg_time_spent','Week','sum_sessions_count','sum_total_time_spent','time_result','total_time_spent'
+ 
+variables_keep_original = ["avg_sessions_per_user","scan_time_spent_per_session","scan_avg_time_spent_per_user","scan_total_time_spent","scan_avg_sessions_per_user","scan_sessions","avg_scans","sum_scans","scan_users","time_spent_per_user","sum_total_time_spent","avg_sessions_per_user",'avg_time_spent','week','sum_sessions_count','sum_total_time_spent','time_result','total_time_spent'
                            ,'sum_toy_unlocked_count','sum_scan_mode_finished_count','total_scans','Total_Users','total_users','users','minigame','environment','percentage',
-                           'grass_month','starting_persona','persona','user_cnt','year','month','country_name','feature','session','ratio']
+                           'grass_month','starting_persona','persona','user_cnt','year','month','country_name','feature','sessions','ratio']
 
 dashboards_supported_sf = [14,292,319,294]
+#dashboards_supported_gb = [319]
 dashboards_supported_gb = [319]
 dashboards_supported = dashboards_supported_gb
 
 overide_old_data = False
 
-env = 'beta'
-
-
-
+env = 'live'
 
 SQLs_Path = 'scripts/Metabase_Optimize_SQLs_gb/'
-
-
-
 
 
 user        = "SAI_METABASE"

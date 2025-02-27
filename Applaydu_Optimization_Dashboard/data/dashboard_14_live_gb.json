@@ -1,0 +1,31 @@
+[
+    {
+        "dashboard": 14,
+        "query": 247,
+        "kpi_name": "Ratings Google Play",
+        "date_filter": "client_time",
+        "columns": [
+            ["rating","float"]
+        ]
+    },
+     {
+        "dashboard": 14,
+        "query": 243,
+        "kpi_name": "Top 30 countries",
+        "date_filter": "client_time",
+        "columns": [
+            ["Country name", "string"],
+            ["Downloads", "int"]
+        ]
+    },
+    {
+        "dashboard": 14,
+        "query": 288,
+        "kpi_name": "Weekly Downloads",
+        "date_filter": "client_time",
+        "columns": [
+            ["Week", "string"],
+            ["New Installations", "int"]
+        ]
+    }
+]

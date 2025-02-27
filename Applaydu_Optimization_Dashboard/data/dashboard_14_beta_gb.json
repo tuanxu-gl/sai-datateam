@@ -1,0 +1,12 @@
+[
+    {
+        "dashboard": 14,
+        "query": 450,
+        "kpi_name": "Daily Downloads",
+        "date_filter": "client_time",
+        "columns": [
+            ["Date", "string"],
+            ["Daily Downloads", "int"]
+        ]
+    }
+]
